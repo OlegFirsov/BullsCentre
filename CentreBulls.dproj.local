@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.656,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitVariablest.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitVariables.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,C:\Documents and Settings\oleg\Мои документы\RAD Studio\Projects\Project1.dproj=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\CentreBulls.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddKatForBull.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitLogin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitVariablest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,C:\Documents and Settings\oleg\Мои документы\RAD Studio\Projects\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitListCategory.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=C:\Documents and Settings\oleg\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit2.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddBull.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitSprav.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddCategory.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitExchange.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitDB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Profiling\AQtimeModule1.aqt=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.906,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddLinia.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Profiling\AQtimeModule1.aqt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitExchange.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitLogin.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAbout.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitImportFromExcel.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddPor.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddRajon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddRegion.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitListCategory.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddStr.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,C:\Documents and Settings\oleg\Мои документы\RAD Studio\Projects\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddNewOrg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitImportFromExcel.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddKatForBull.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddCategory.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit1.dfm=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitDB.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\Unit2.pas=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitAddBull.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,=D:\RAD Studio10.0\Projects\MinSelHozRussia\Bulls\Centre\UnitOkrug.pas</Transaction>
+  </Transactions>
+</BorlandProject>
